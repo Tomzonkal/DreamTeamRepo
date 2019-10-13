@@ -1,0 +1,11 @@
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/bin/Debug/netcoreapp3.0/ConnectionSearching
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/bin/Debug/netcoreapp3.0/ConnectionSearching.deps.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/bin/Debug/netcoreapp3.0/ConnectionSearching.runtimeconfig.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/bin/Debug/netcoreapp3.0/ConnectionSearching.runtimeconfig.dev.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/bin/Debug/netcoreapp3.0/ConnectionSearching.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/bin/Debug/netcoreapp3.0/ConnectionSearching.pdb
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.csprojAssemblyReference.cache
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.AssemblyInfoInputs.cache
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.AssemblyInfo.cs
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.pdb
