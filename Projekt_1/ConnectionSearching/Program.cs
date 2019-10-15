@@ -1,47 +1,72 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
-
+using Newtonsoft.Json;
 namespace ConnectionSearching
 {
     class Program
     {
+        static List<Source> list= new List<Source>();
+        static string Main_string=null;
         static void Main(string[] args)
         {
-            string file;
-            
-
+            string[] arg={"1.t","2.t"};
+            foreach(string temp in arg)
+            {
+                list.Add(new Source{name=temp});
+                Main_string+= temp;
+            }
+            Connections();
+		var x=JsonConvert.SerializeObject(list);
+            StreamWriter logWriter= new StreamWriter("Conections.txt");
+            logWriter.WriteLine(x);
+            logWriter.Dispose();
         }
 
-
-
-
-
-        List<string> Connections(string file)
+       static void Connections()
         {
-            List<string> connections=new List<string>();
-            string[] includes=null;
+           
+           
           string line=null;
             try
             {
-                using(StreamReader sr = new StreamReader(file))
+                foreach(Source temp in list)
+                using(StreamReader sr = new StreamReader(temp.name))
                 {
                    while((line = sr.ReadLine()) != null)  
                         {  
                             if (line.Contains("using")||line.Contains("include")||line.Contains("import"))
                             {
-                             List <string> list =new List<string>(line.Split(" "));
+                                List <string> listed=null; 
+                            if( line.Contains("using"))
+                            {
+                                listed =new List<string>(line.Split(" "));
+                            }
+                            
+                            if( line.Contains("include"))
+                            {
+                                 listed =new List<string>(line.Split('"'));
+                            }
+                            if( line.Contains("import"))
+                            {
+                               listed =new List<string>(line.Split(" "));
+                            }
                              bool find=false;
-                             foreach(string temp in list)
+                             foreach(string temp_2 in listed)
                              {
                                  
-                                 if(find)
+                                 if(find&&Main_string.Contains(temp_2))
                                  {
-                                    connections.Add(temp);
+                                   temp.connections.Add(temp_2);
                                     find=false;
+                                    foreach(Source file in list)
+                                    {
+                                        if(file.name.Contains(temp_2))
+                                        file.connected++;
+                                    }
                                  }
                                  
-                                 if (temp.Contains("using")||temp.Contains("include")||temp.Contains("import"))
+                                 if (temp_2.Contains("using")||temp_2.Contains("include")||temp_2.Contains("import"))
                                 find=true;
 
                              }
@@ -54,8 +79,15 @@ namespace ConnectionSearching
             Console.WriteLine("The file could not be read:");
             Console.WriteLine(e.Message);
         }
-        
-        return connections;
+
+        }
+
+        private class Source
+        {
+            public string name;
+            public List<string> connections=new List<string>();
+            public int connected=0;
+
         }
     }
 }

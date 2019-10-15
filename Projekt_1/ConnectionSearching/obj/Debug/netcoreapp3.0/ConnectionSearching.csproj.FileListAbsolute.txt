@@ -9,3 +9,5 @@
 /home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.AssemblyInfo.cs
 /home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.dll
 /home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.pdb
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt_1/ConnectionSearching/obj/Debug/netcoreapp3.0/ConnectionSearching.csproj.CopyComplete
