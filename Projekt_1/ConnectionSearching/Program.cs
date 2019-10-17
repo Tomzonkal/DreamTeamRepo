@@ -17,10 +17,20 @@ namespace ConnectionSearching
                 Main_string+= temp;
             }
             Connections();
-		var x=JsonConvert.SerializeObject(list);
+		var x="";
+            foreach(Source temp in list)
+            {
+                x+=temp.name+";";
+                x+=String.Join(";",temp.connections.ToArray())+";";
+                x+=temp.connected.ToString();
+                x+="*";
+            }
+            x=x.Substring(0,x.Length-1);
             StreamWriter logWriter= new StreamWriter("Conections.txt");
+            
             logWriter.WriteLine(x);
             logWriter.Dispose();
+            System.Diagnostics.Process.Start("/bin/bash", "-c \"echo 'Hello World!'\"");
         }
 
        static void Connections()
