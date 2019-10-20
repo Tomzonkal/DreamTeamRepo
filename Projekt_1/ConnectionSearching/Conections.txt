@@ -1,1 +1,1 @@
-[{"name":"1.t","connections":["2.t"],"connected":1},{"name":"2.t","connections":["1.t"],"connected":1}]
+1.t;2.t;2*2.t;1.t;2*3.t;1.t;2.t;0

@@ -10,7 +10,7 @@ namespace ConnectionSearching
         static string Main_string=null;
         static void Main(string[] args)
         {
-            string[] arg={"1.t","2.t"};
+            string[] arg={"1.t","2.t","3.t"};
             foreach(string temp in arg)
             {
                 list.Add(new Source{name=temp});
@@ -30,7 +30,7 @@ namespace ConnectionSearching
             
             logWriter.WriteLine(x);
             logWriter.Dispose();
-            System.Diagnostics.Process.Start("/bin/bash", "-c \"echo 'Hello World!'\"");
+            System.Diagnostics.Process.Start("/bin/bash", "-c \"python Drawing.py\"");
         }
 
        static void Connections()
