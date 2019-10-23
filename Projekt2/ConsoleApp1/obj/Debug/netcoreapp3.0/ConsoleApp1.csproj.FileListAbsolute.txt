@@ -1,0 +1,11 @@
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.deps.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.runtimeconfig.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.runtimeconfig.dev.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/bin/Debug/netcoreapp3.0/ConsoleApp1.pdb
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.csprojAssemblyReference.cache
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.AssemblyInfo.cs
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt2/ConsoleApp1/obj/Debug/netcoreapp3.0/ConsoleApp1.pdb
