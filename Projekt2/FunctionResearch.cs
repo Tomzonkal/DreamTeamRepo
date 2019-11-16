@@ -11,15 +11,7 @@ namespace DefaultNamespace
 
 
 
-
-        void read_file()
-        {
-            using (StreamReader sr = new StreamReader("TestFile.txt"))
-            {
-                sr.
-            }
-            
-        }
+        
         
         
     }

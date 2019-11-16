@@ -14,8 +14,8 @@
           </e>
         </e>
       </e>
+      <e p="output.txt" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
-      <e p="test.cpp" t="Include" />
       <e p="test.h" t="Include" />
     </e>
   </component>

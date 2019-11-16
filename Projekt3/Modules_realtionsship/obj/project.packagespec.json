@@ -1,0 +1,40 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/tomasz/RiderProjects/Modules_realtionsship/Modules_realtionsship/Modules_realtionsship.csproj",
+    "projectName": "Modules_realtionsship",
+    "projectPath": "/home/tomasz/RiderProjects/Modules_realtionsship/Modules_realtionsship/Modules_realtionsship.csproj",
+    "outputPath": "/home/tomasz/RiderProjects/Modules_realtionsship/Modules_realtionsship/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

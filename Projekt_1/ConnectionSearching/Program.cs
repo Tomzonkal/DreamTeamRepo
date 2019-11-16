@@ -10,7 +10,7 @@ namespace ConnectionSearching
         static string Main_string=null;
         static void Main(string[] args)
         {
-            string[] arg={"1.t","2.t","3.t"};
+            string[] arg={"1.t","2.t","3.t","4.t"};
             foreach(string temp in arg)
             {
                 list.Add(new Source{name=temp});

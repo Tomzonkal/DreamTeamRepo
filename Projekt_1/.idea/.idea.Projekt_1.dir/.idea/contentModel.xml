@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConnectionSearching" t="IncludeRecursive">
+        <e p="1.t" t="Include" />
+        <e p="2.t" t="Include" />
+        <e p="3.t" t="Include" />
+        <e p="4.t" t="Include" />
+        <e p="Conections.txt" t="Include" />
+        <e p="ConnectionSearching.csproj" t="IncludeRecursive" />
+        <e p="Drawing.py" t="Include" />
+        <e p="File_reader.py" t="Include" />
+        <e p="File_reader.pyc" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="ConnectionSearching.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

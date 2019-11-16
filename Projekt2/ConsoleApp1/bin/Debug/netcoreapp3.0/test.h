@@ -1,17 +1,30 @@
-#include <vector>
-#include <iostream>
-using namespace std;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Security.Authentication.ExtendedProtection;
+using System.Text.RegularExpressions;
+using System.Xml.Linq;
 
-class Matrix 
+namespace App
 {
-    public :
-   
-    Matrix multiply(double const&value);
-    Matrix add(Matrix const&m)const;
-    Matrix substract(Matrix const&m)const;
-    Matrix multiply(Matrix const &m) const;
-    Matrix dot(Matrix const &m) const;
-    Matrix transpose() const;
-    Matrix applyFunction(double (*function)(double)) const;
-     
-};
+class Prog
+{
+
+void Count (double x,double z){
+}
+int Kup()
+{
+}
+void Add(int x)
+{
+}
+
+static void Main(string[] args)
+{
+Count();
+}
+}
+
+
+}
+
