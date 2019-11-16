@@ -1,0 +1,13 @@
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/bin/Debug/netcoreapp3.0/Modules_realtionsship
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/bin/Debug/netcoreapp3.0/Modules_realtionsship.deps.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/bin/Debug/netcoreapp3.0/Modules_realtionsship.runtimeconfig.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/bin/Debug/netcoreapp3.0/Modules_realtionsship.runtimeconfig.dev.json
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/bin/Debug/netcoreapp3.0/Modules_realtionsship.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/bin/Debug/netcoreapp3.0/Modules_realtionsship.pdb
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/obj/Debug/netcoreapp3.0/Modules_realtionsship.csprojAssemblyReference.cache
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/obj/Debug/netcoreapp3.0/Modules_realtionsship.AssemblyInfoInputs.cache
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/obj/Debug/netcoreapp3.0/Modules_realtionsship.AssemblyInfo.cs
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/obj/Debug/netcoreapp3.0/Modules_realtionsship.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/obj/Debug/netcoreapp3.0/Modules_realtionsship.pdb
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/obj/Debug/netcoreapp3.0/Modules_realtionsship.csproj.CopyComplete

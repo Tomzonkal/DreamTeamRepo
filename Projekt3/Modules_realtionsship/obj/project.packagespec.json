@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/tomasz/RiderProjects/Modules_realtionsship/Modules_realtionsship/Modules_realtionsship.csproj",
+    "projectUniqueName": "/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/Modules_realtionsship.csproj",
     "projectName": "Modules_realtionsship",
-    "projectPath": "/home/tomasz/RiderProjects/Modules_realtionsship/Modules_realtionsship/Modules_realtionsship.csproj",
-    "outputPath": "/home/tomasz/RiderProjects/Modules_realtionsship/Modules_realtionsship/obj/",
+    "projectPath": "/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/Modules_realtionsship.csproj",
+    "outputPath": "/home/tomasz/Pulpit/WorkSpaceAGH/Inzynieria_Oprogramowania/DreamTeamRepo/Projekt3/Modules_realtionsship/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -25,6 +25,12 @@
   },
   "frameworks": {
     "netcoreapp3.0": {
+      "dependencies": {
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",
