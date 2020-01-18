@@ -1,0 +1,17 @@
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\Program_1.exe
+C:\Users\Tomasz\source\repos\Program_1\Program_1\obj\Debug\netcoreapp3.0\Program_1.AssemblyInfoInputs.cache
+C:\Users\Tomasz\source\repos\Program_1\Program_1\obj\Debug\netcoreapp3.0\Program_1.AssemblyInfo.cs
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\Program_1.deps.json
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\Program_1.runtimeconfig.json
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\Program_1.runtimeconfig.dev.json
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\Program_1.dll
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\Program_1.pdb
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Tomasz\source\repos\Program_1\Program_1\obj\Debug\netcoreapp3.0\Program_1.csproj.CopyComplete
+C:\Users\Tomasz\source\repos\Program_1\Program_1\obj\Debug\netcoreapp3.0\Program_1.dll
+C:\Users\Tomasz\source\repos\Program_1\Program_1\obj\Debug\netcoreapp3.0\Program_1.pdb
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\1.t
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\2.t
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\3.t
+C:\Users\Tomasz\source\repos\Program_1\Program_1\bin\Debug\netcoreapp3.0\4.t
+C:\Users\Tomasz\source\repos\Program_1\Program_1\obj\Debug\netcoreapp3.0\Program_1.csprojAssemblyReference.cache
