@@ -47,4 +47,5 @@ nx.draw_networkx_labels(G, pos, weights, font_size=10, font_color='r')
 
 # rysowanie
 plt.axis('off')
+plt.savefig('diagram_1.png')
 plt.show()
