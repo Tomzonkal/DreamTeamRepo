@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomasz\\source\\repos\\Program_1\\Program_1\\Program_1.csproj",
+      "projectUniqueName": "C:\\Users\\Tomasz\\Desktop\\temp\\DreamTeamRepo\\Końcowe\\Program_1\\Program_1.csproj",
       "projectName": "Program_1",
-      "projectPath": "C:\\Users\\Tomasz\\source\\repos\\Program_1\\Program_1\\Program_1.csproj",
+      "projectPath": "C:\\Users\\Tomasz\\Desktop\\temp\\DreamTeamRepo\\Końcowe\\Program_1\\Program_1.csproj",
       "packagesPath": "C:\\Users\\Tomasz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomasz\\source\\repos\\Program_1\\Program_1\\obj\\",
+      "outputPath": "C:\\Users\\Tomasz\\Desktop\\temp\\DreamTeamRepo\\Końcowe\\Program_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

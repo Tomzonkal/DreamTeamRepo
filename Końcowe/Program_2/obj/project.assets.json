@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomasz\\source\\repos\\Program_1\\Program_2\\Program_2.csproj",
+      "projectUniqueName": "C:\\Users\\Tomasz\\Desktop\\temp\\DreamTeamRepo\\Końcowe\\Program_2\\Program_2.csproj",
       "projectName": "Program_2",
-      "projectPath": "C:\\Users\\Tomasz\\source\\repos\\Program_1\\Program_2\\Program_2.csproj",
+      "projectPath": "C:\\Users\\Tomasz\\Desktop\\temp\\DreamTeamRepo\\Końcowe\\Program_2\\Program_2.csproj",
       "packagesPath": "C:\\Users\\Tomasz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomasz\\source\\repos\\Program_1\\Program_2\\obj\\",
+      "outputPath": "C:\\Users\\Tomasz\\Desktop\\temp\\DreamTeamRepo\\Końcowe\\Program_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

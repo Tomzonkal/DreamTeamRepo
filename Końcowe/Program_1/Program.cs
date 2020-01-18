@@ -18,7 +18,7 @@ namespace ConnectionSearching
             }
             Connections();
             
-            StreamWriter logWriter = new StreamWriter("Conections.txt");
+            StreamWriter logWriter = new StreamWriter("../../../../output/P_1.txt");
 
             logWriter.WriteLine(JsonConvert.SerializeObject(list));
             logWriter.Dispose();

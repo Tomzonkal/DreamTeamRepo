@@ -73,7 +73,7 @@ namespace Modules_realtionsship
                 }
             }
 
-            using (StreamWriter writer = new StreamWriter("ext.txt"))
+            using (StreamWriter writer = new StreamWriter("../../../../output/P_3.txt"))
             {
                 writer.Write(JsonConvert.SerializeObject(list));
             }
