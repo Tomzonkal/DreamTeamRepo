@@ -21,32 +21,13 @@ namespace ConsoleApp1
 
         private static void Connections()
         {
-            int count=0;
+            int count=1;
             string regex = @"([a-zA-Z])+\s[a-zA-Z]+\s*\(.*\)\s*\{";
             using (StreamReader file = new StreamReader("test.h"))
             {
                 string x; 
                 while((x=file.ReadLine())!=null)
-               for(int i=0;i<list.Count;i++)
-                {
-                    if(x.Contains(list[i]))
-                         while(true)
-                        {
-                            
-                             x = file.ReadLine();
-                            if (x.Contains('{'))
-                                count++;
-                            if (x.Contains('}'))
-                                count--;
-                            for (int j = 0; j < list.Count; j++)
-                                if (x.Contains(list[j]))
-                                    functions[list[i]] = list[j];
-                            if (count == 0 && x.Contains('}'))
-                                break;
-                            
-                        }
-
-                }
+              
                 file.Close();
             }
         }
