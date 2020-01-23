@@ -2,6 +2,7 @@ import File_reader as fr
 import networkx as nx
 import matplotlib.pyplot as plt
 
+
 G = nx.DiGraph()
 nodes = fr.read('input.json')
 
