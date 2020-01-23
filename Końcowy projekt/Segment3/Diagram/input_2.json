@@ -1,0 +1,28 @@
+[
+  {
+    "name":" App\r",
+    "functions":
+      {
+        "Count(":2,
+        "Kup()\r\n(":0,
+        "Add(int(":0,
+        "Main(string[](":0
+      },
+    "liczba_odwołań":2,
+    "context":" App\r\n{\r\n class Prog\r\n {\r\n\r\n  void Count (double x,double z){\r\n  }\r\n\r\n  int Kup()\r\n  {\r\n  }\r\n\r\n  void Add(int x)\r\n  {\r\n  }\r\n\r\n  static void Main(string[] args)\r\n  {\r\n   Count();\r\n  }\r\n }\r\n\r\n}\r\n\r\n\r\n",
+    "odwolywujący":" App\r/ API\r/"
+  },
+  {
+    "name":" API\r",
+    "functions":
+    {
+      "Countless(":0,
+      "Kupic()\r\n(":0,
+      "Addition(int(":0,
+      "Main(string[](":0
+    },
+    "liczba_odwołań":0,
+    "context":" API\r\n{\r\n class Prog\r\n {\r\n\r\n  void Countless (double x,double z){\r\n   Count();\r\n  }\r\n\r\n  int Kupic()\r\n  {\r\n   Add()\r\n  }\r\n\r\n  void Addition(int x)\r\n  {\r\n    Add();\r\n  }\r\n\r\n  static void Main(string[] args)\r\n  {\r\n   Count();\r\n  }\r\n }\r\n\r\n}\r\n\r\n",
+    "odwolywujący":""
+  }
+]
