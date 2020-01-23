@@ -1,0 +1,19 @@
+(Zatwierdzone dla UBUNTU 16.06 LTS)
+
+Aby uruchomić program w konsoli
+$   cd Końcowy\ projekt/Launcher && ./Start
+
+
+Folder Diagramy -> diagramy UML
+Folder Testy -> Katalogi z przeprowadzonymi testami i ich kodem
+
+W podfolderach "Diagramy" w każdym segmencie znajdują skrypty rysujące graf
+
+Wykonanie:
+Skrypty do rysowania poszczególnych grafów Wojciech Jędrysik technologia Python 
+
+Backend do analizy kodu i zwracania korelacji Tomasz Jażdżewski technologia .NETCORE 3.0
+
+UnitTesty Aleksander Gryga i Aleksandra Knauber technologia MSTest .netCore 
+
+Wykonanie diagramów  Maciej Kubeł technologia Visual Paradigm
