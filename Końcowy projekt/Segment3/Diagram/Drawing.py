@@ -4,7 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 G = nx.DiGraph()
-modules = fr.read('input_2.json')
+modules = fr.read('input.json')
 
 module_names = []
 functions_list = []
@@ -18,7 +18,7 @@ for module in modules:
     module_names.append(module['name'])  # Dodajemy moduł do grupy węzłów
     nodes.append(module['name'])
     functions_list.append(module['functions'])
-    recallers.append(module['odwolywujÄ…cy'])
+    recallers.append(module['odwolywujacy'])
 
 
 # Tworzymy połączenia między funckją i modułem, w którym funkcja się znajduje

@@ -1,0 +1,30 @@
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.exe
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\test.h
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\test1.h
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.deps.json
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.runtimeconfig.json
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.runtimeconfig.dev.json
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.dll
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.pdb
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.csprojAssemblyReference.cache
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.AssemblyInfoInputs.cache
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.AssemblyInfo.cs
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.dll
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.pdb
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Tomasz\Desktop\temp\DreamTeamRepo\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.csproj.CopyComplete
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.exe
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\test.h
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\test1.h
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.deps.json
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.runtimeconfig.json
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.runtimeconfig.dev.json
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.dll
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Program_4.pdb
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.csprojAssemblyReference.cache
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.AssemblyInfoInputs.cache
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.AssemblyInfo.cs
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.csproj.CopyComplete
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.dll
+D:\DreamTeamRepo-master (7)\DreamTeamRepo-master\Końcowe\Program_4\obj\Debug\netcoreapp3.0\Program_4.pdb

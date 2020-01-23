@@ -1,0 +1,15 @@
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Program_3.exe
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\test.h
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Program_3.deps.json
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Program_3.runtimeconfig.json
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Program_3.runtimeconfig.dev.json
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Program_3.dll
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Program_3.pdb
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\obj\Release\netcoreapp3.0\Program_3.AssemblyInfoInputs.cache
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\obj\Release\netcoreapp3.0\Program_3.AssemblyInfo.cs
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\obj\Release\netcoreapp3.0\Program_3.csproj.CopyComplete
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\obj\Release\netcoreapp3.0\Program_3.dll
+C:\Users\Ola\Desktop\DreamTeamRepo-master2\Końcowe\Program_3\obj\Release\netcoreapp3.0\Program_3.pdb
